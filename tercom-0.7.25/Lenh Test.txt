@@ -1,0 +1,3 @@
+java -jar tercom.jar -r D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\Data.txt -h D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\ResultTP.txt -n D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\outTP.txt
+
+java -jar tercom.jar -r D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\Data.txt -h D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\ResultID3TP.txt -n D:\BLuanVan\VnTranslatorSign_ver7.0\VnTranslatorSign_ver2.0\bin\Test\outID3TP.txt
